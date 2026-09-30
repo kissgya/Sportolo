@@ -27,6 +27,22 @@
   },
   {
     "ContainingType": "Sportolo.Controllers.EredmenyController",
+    "Method": "Update",
+    "RelativePath": "eredmeny",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "frissitettEredmeny",
+        "Type": "Sportolo.Models.Eredmeny",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sportolo.Controllers.EredmenyController",
     "Method": "GetEredmenyById",
     "RelativePath": "eredmeny/byId",
     "HttpMethod": "GET",

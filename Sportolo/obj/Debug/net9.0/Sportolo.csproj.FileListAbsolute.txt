@@ -69,3 +69,4 @@ D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj
 D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.pdb
 D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.genruntimeconfig.cache
 D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\ref\Sportolo.dll
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.sourcelink.json

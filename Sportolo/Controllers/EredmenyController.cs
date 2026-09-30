@@ -104,5 +104,52 @@ namespace Sportolo.Controllers
             connector.Close();
             return new { message = "Sikeres feltöltés.", result = addEredmenyDto };
         }
+
+
+        
+        [HttpPut]
+        public IActionResult Update(Eredmeny frissitettEredmeny)
+        {
+            try
+            {
+                using var connection = new MySqlConnection(ConnectionString);
+                connection.Open();
+
+               
+                DateTime aktualisIdo = DateTime.Now;
+
+                string query = @"UPDATE eredmeny 
+                                 SET Competition = @Competition, 
+                                     Description = @Description, 
+                                     ResultTime = @ResultTime, 
+                                     UpdateTime = @UpdateTime, 
+                                     SportoloId = @SportoloId 
+                                 WHERE Id = @Id";
+
+                using var command = new MySqlCommand(query, connection);
+
+                
+                command.Parameters.AddWithValue("@Id", frissitettEredmeny.Id);
+
+                command.Parameters.AddWithValue("@Competition", frissitettEredmeny.Competition);
+                command.Parameters.AddWithValue("@Description", frissitettEredmeny.Description);
+                command.Parameters.AddWithValue("@ResultTime", frissitettEredmeny.ResultTime);
+                command.Parameters.AddWithValue("@UpdateTime", aktualisIdo);
+                command.Parameters.AddWithValue("@SportoloId", frissitettEredmeny.SportoloId);
+
+                int rowsAffected = command.ExecuteNonQuery();
+
+                if (rowsAffected == 0)
+                {
+                    return NotFound("Nem található módosítandó eredmény ezzel az ID-val.");
+                }
+
+                return Ok("Az eredmény sikeresen frissítve.");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Hiba történt a módosítás során: {ex.Message}");
+            }
+        }
     }
 }

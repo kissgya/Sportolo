@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_CUCCOK\\KKSZKI\\_AGAZATI VIZSGA UT\u00C1N\\Backend\\Homework0930\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E404509-A2EB-46DE-A179-ABFECFAC31BE}|Sportolo\\Sportolo.csproj|d:\\_cuccok\\kkszki\\_agazati vizsga ut\u00E1n\\backend\\homework0930\\webapi\\sportolo\\controllers\\eredmenycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E404509-A2EB-46DE-A179-ABFECFAC31BE}|Sportolo\\Sportolo.csproj|solutionrelative:sportolo\\controllers\\eredmenycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EredmenyController.cs",
+              "DocumentMoniker": "D:\\_CUCCOK\\KKSZKI\\_AGAZATI VIZSGA UT\u00C1N\\Backend\\Homework0930\\WebApi\\Sportolo\\Controllers\\EredmenyController.cs",
+              "RelativeDocumentMoniker": "Sportolo\\Controllers\\EredmenyController.cs",
+              "ToolTip": "D:\\_CUCCOK\\KKSZKI\\_AGAZATI VIZSGA UT\u00C1N\\Backend\\Homework0930\\WebApi\\Sportolo\\Controllers\\EredmenyController.cs",
+              "RelativeToolTip": "Sportolo\\Controllers\\EredmenyController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwIgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T12:40:43.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
