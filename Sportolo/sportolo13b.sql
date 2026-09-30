@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2026. Sze 29. 19:06
+-- Létrehozás ideje: 2026. Sze 30. 15:30
 -- Kiszolgáló verziója: 10.4.32-MariaDB
 -- PHP verzió: 8.2.12
 
@@ -47,8 +47,7 @@ INSERT INTO `eredmeny` (`id`, `competition`, `description`, `resultTime`, `updat
 (2, 'Megyei bajnokság', 'Aranyérem 100 m gátfutásban, 13.42 mp.', '2025-05-18 15:00:00', '2025-05-18 15:00:00', 2),
 (3, 'Országos diákolimpia', 'Ezüstérem magasugrásban, 178 cm.', '2025-06-01 10:15:00', '2025-06-01 10:15:00', 3),
 (4, 'Úszó verseny', '100 m gyors, 2. hely, 58.3 mp.', '2025-06-10 09:00:00', '2025-06-10 09:00:00', 5),
-(5, 'Atlétikai kupa', 'Súlylökés, 3. hely, 11.8 m.', '2025-06-22 14:20:00', '2025-06-22 14:20:00', 6),
-(6, 'Rajz verseny', 'Első helyezés 18 év alattiak között', '2026-09-29 18:53:51', '2026-09-29 18:53:51', 3);
+(5, 'Atlétikai kupa', 'Súlylökés, 3. hely, 11.8 m.', '2025-06-22 14:20:00', '2025-06-22 14:20:00', 6);
 
 -- --------------------------------------------------------
 
