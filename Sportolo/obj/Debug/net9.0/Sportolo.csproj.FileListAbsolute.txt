@@ -1,0 +1,71 @@
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\bin\Debug\net9.0\appsettings.json
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\bin\Debug\net9.0\Sportolo.staticwebassets.endpoints.json
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\bin\Debug\net9.0\Sportolo.exe
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\bin\Debug\net9.0\Sportolo.deps.json
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\bin\Debug\net9.0\Sportolo.runtimeconfig.json
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\bin\Debug\net9.0\Sportolo.dll
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\bin\Debug\net9.0\Sportolo.pdb
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.csproj.AssemblyReference.cache
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.AssemblyInfoInputs.cache
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.AssemblyInfo.cs
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.csproj.CoreCompileInputs.cache
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\scopedcss\bundle\Sportolo.styles.css
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.csproj.Up2Date
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.dll
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\refint\Sportolo.dll
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.pdb
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.genruntimeconfig.cache
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\obj\Debug\net9.0\ref\Sportolo.dll
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\bin\Debug\net9.0\Scalar.AspNetCore.dll
+C:\Users\KissGyA\source\repos\WebApi\Sportolo\bin\Debug\net9.0\MySqlConnector.dll
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\bin\Debug\net9.0\appsettings.Development.json
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\bin\Debug\net9.0\appsettings.json
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\bin\Debug\net9.0\Sportolo.staticwebassets.endpoints.json
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\bin\Debug\net9.0\Sportolo.exe
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\bin\Debug\net9.0\Sportolo.deps.json
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\bin\Debug\net9.0\Sportolo.runtimeconfig.json
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\bin\Debug\net9.0\Sportolo.dll
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\bin\Debug\net9.0\Sportolo.pdb
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\bin\Debug\net9.0\MySqlConnector.dll
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\bin\Debug\net9.0\Scalar.AspNetCore.dll
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.csproj.AssemblyReference.cache
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.AssemblyInfoInputs.cache
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.AssemblyInfo.cs
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.csproj.CoreCompileInputs.cache
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.MvcApplicationPartsAssemblyInfo.cs
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.MvcApplicationPartsAssemblyInfo.cache
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\scopedcss\bundle\Sportolo.styles.css
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\staticwebassets.build.json
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\staticwebassets.development.json
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\swae.build.ex.cache
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.csproj.Up2Date
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.dll
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\refint\Sportolo.dll
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.pdb
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\Sportolo.genruntimeconfig.cache
+D:\_CUCCOK\KKSZKI\_AGAZATI VIZSGA UTÁN\Backend\Homework0930\WebApi\Sportolo\obj\Debug\net9.0\ref\Sportolo.dll
