@@ -151,5 +151,29 @@ namespace Sportolo.Controllers
                 return StatusCode(500, $"Hiba történt a módosítás során: {ex.Message}");
             }
         }
+
+
+
+        [HttpDelete]
+
+        public object DeleteEredmeny([FromBody] int id)
+        {
+            var connector = new MySqlConnection(ConnectionString);
+
+            connector.Open();
+
+            string sql = @"DELETE FROM `eredmeny` WHERE id = @id";
+
+            var cmd = new MySqlCommand(sql, connector);
+
+            cmd.Parameters.AddWithValue("@id", id);
+
+            cmd.ExecuteNonQuery();
+
+            connector.Close();
+
+            return new { message = "Sikeres törlés.", result = "" };
+        }
+
     }
 }
